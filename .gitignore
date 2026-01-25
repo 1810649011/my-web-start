@@ -37,4 +37,4 @@ __screenshots__/
 
 .env
 .env.development
-.env.produciton
+.env.production
