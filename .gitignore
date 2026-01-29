@@ -35,6 +35,6 @@ coverage
 # Vitest
 __screenshots__/
 
-.env
-.env.development
-.env.production
+# .env
+# .env.development
+# .env.production
